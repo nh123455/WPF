@@ -1,0 +1,259 @@
+﻿<Window x:Class="UIKitTutorials.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Icon="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:UIKitTutorials"
+        mc:Ignorable="d" Name="home"
+        Title="MainWindow" Height="780" Width="1280"
+        WindowStartupLocation="CenterScreen" WindowStyle="None"
+        Background="Transparent" AllowsTransparency="True"
+        ResizeMode="NoResize" WindowState="Maximized">
+
+    <Window.Resources>
+        <BooleanToVisibilityConverter x:Key="boolToVisConv"/>
+    </Window.Resources>
+
+    <!--<Border CornerRadius="25" Background="#f7f6f4" MouseDown="Border_MouseDown" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+        -->
+    <!--<Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto"/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            -->
+    <!-- Start: GridColum Left-->
+    <!--
+            <Border CornerRadius="8 0 0 8" Background="{DynamicResource SecundaryBackgroundColor}">
+                <Grid x:Name="gridMenu" Width="60">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="60"/>
+                        <RowDefinition Height="80"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    
+                    -->
+    <!-- Logo -->
+    <!--
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Top">
+                        -->
+    <!--<Path Data="{DynamicResource logo}" Margin="16 0 0 0" Stretch="Fill" Fill="{DynamicResource PrimaryBlueColor}" Width="25" Height="25" HorizontalAlignment="Left"/>-->
+    <!--
+                        <Image x:Name="Main" Width="36" Height="36" MouseDown="Main_MouseDown" Margin="12 0 0 0" Source="/Images/delfi.png"/>
+                        <Label x:Name="lbMain" Content="Delfi Technologies" Foreground="{DynamicResource PrimaryBlueColor}" FontWeight="Bold" FontSize="15" VerticalAlignment="Center" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="10 0 0 10" MouseDown="lbMain_MouseDown"/>
+                    </StackPanel>
+                    
+                    -->
+    <!-- Menu -->
+    <!--
+                    <ToggleButton x:Name="btnMenu"  HorizontalAlignment="Right" BorderThickness="0" Background="Transparent" VerticalAlignment="Center" Style="{StaticResource MenuIconStyle}" Margin="0 0 15 0">
+                        <ToggleButton.Triggers>
+                            <EventTrigger RoutedEvent="ToggleButton.Unchecked">
+                                <BeginStoryboard>
+                                    <Storyboard x:Name="HideStackPanel">
+                                        <DoubleAnimation Storyboard.TargetName="gridMenu" Storyboard.TargetProperty="Width" BeginTime="0:0:0" From="200" To="60" Duration="0:0:0.3">
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                            <EventTrigger RoutedEvent="ToggleButton.Checked">
+                                <BeginStoryboard>
+                                    <Storyboard x:Name="ShowStackPanel">
+                                        <DoubleAnimation Storyboard.TargetName="gridMenu" Storyboard.TargetProperty="Width" BeginTime="0:0:0" From="60" To="200" Duration="0:0:0.3">
+                                        </DoubleAnimation>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </EventTrigger>
+                        </ToggleButton.Triggers>
+                    </ToggleButton>
+
+                    <StackPanel Grid.Row="1" Margin="0,64,0,0" Grid.RowSpan="3">
+                        <RadioButton x:Name="rdHome" Content="FTP" Style="{DynamicResource MenuRadioButtonStyleFTP}" Tag="{DynamicResource ftpFolder2}" Click="rdHome_Click"/>
+                        <RadioButton x:Name="rdSounds" Content="Local" Style="{DynamicResource MenuRadioButtonStyleLocal}" Tag="{DynamicResource headphones}" Margin="0 5 0 5" Click="rdSounds_Click"/>
+                        <RadioButton x:Name="rdNotes" Content="Setting" Style="{DynamicResource MenuRadioButtonStyleSetting}" Tag="{DynamicResource notes}" Click="rdNotes_Click"/>
+                    </StackPanel>
+                </Grid>
+            </Border>
+            -->
+    <!-- End: GridColum Left-->
+
+    <!-- Start: GridColumn Rigth -->
+    <!--
+            <Grid Grid.Column="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="60"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                
+                -->
+    <!-- Start: Button Close | Restore | Minimize -->
+    <!--
+                <StackPanel Grid.Row="0" Grid.Column="4" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,5,10,0" Height="30" Orientation="Horizontal" FlowDirection="RightToLeft">
+                    <Button x:Name="btnClose" Style="{StaticResource IconButtonsStyle}" Content="{DynamicResource close}" Click="btnClose_Click" Tag="IsCloseButton"/>
+                    <Button x:Name="btnRestore" Margin="5,0" Click="btnRestore_Click">
+                        <Button.Style>
+                            <Style TargetType="{x:Type Button}" BasedOn="{StaticResource IconButtonsStyle}">
+                                <Setter Property="Content" Value="{DynamicResource maximize}"/>
+                                <Style.Triggers>
+                                    <DataTrigger Binding="{Binding ElementName=home, Path=WindowState}" Value="Maximized">
+                                        <Setter Property="Content" Value="{DynamicResource restore}"/>
+                                    </DataTrigger>
+                                </Style.Triggers>
+                            </Style>
+                        </Button.Style>
+                    </Button>
+                    <Button x:Name="btnMinimize" Style="{DynamicResource IconButtonsStyle}" Content="{DynamicResource minimize}" Click="btnMinimize_Click"/>
+                </StackPanel>
+                -->
+    <!-- End: Button Close | Restore | Minimize -->
+    <!--
+                
+                <Border Grid.Row="1" Margin="10">
+                    <Frame x:Name="PagesNavigation" NavigationUIVisibility="Hidden">
+                        -->
+    <!-- Page Content -->
+    <!--
+                    </Frame>
+                </Border>
+            </Grid>
+            -->
+    <!-- Start: GridColumn Rigth -->
+    <!--
+        </Grid>-->
+    <!--
+    </Border>-->
+
+    <Border CornerRadius="25" Padding="20" Background="#f7f6f4" MouseDown="Border_MouseDown" MouseLeftButtonDown="Border_MouseLeftButtonDown">
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="200"/>
+                <ColumnDefinition Width="21"/>
+                <ColumnDefinition Width="215*"/>
+                <ColumnDefinition Width="197*"/>
+                <ColumnDefinition Width="608*"/>
+            </Grid.ColumnDefinitions>
+
+            <Grid.RowDefinitions>
+                <RowDefinition Height="30"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Column="4" HorizontalAlignment="Right" VerticalAlignment="Center" Height="30" Orientation="Horizontal" FlowDirection="RightToLeft">
+                <Button x:Name="btnClose" Style="{StaticResource IconButtonsStyle}" Content="{DynamicResource close}" Click="btnClose_Click" Tag="IsCloseButton"/>
+                <Button x:Name="btnRestore" Margin="5,0" Click="btnRestore_Click">
+                    <Button.Style>
+                        <Style TargetType="{x:Type Button}" BasedOn="{StaticResource IconButtonsStyle}">
+                            <Setter Property="Content" Value="{DynamicResource maximize}"/>
+                            <Style.Triggers>
+                                <DataTrigger Binding="{Binding ElementName=home, Path=WindowState}" Value="Maximized">
+                                    <Setter Property="Content" Value="{DynamicResource restore}"/>
+                                </DataTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </Button.Style>
+                </Button>
+                <Button x:Name="btnMinimize" Style="{DynamicResource IconButtonsStyle}" Content="{DynamicResource minimize}" Click="btnMinimize_Click"/>
+            </StackPanel>
+
+            <!--Menu-->
+            <Border Grid.RowSpan="2" CornerRadius="25" Grid.ColumnSpan="1" >
+                <Border.Background>
+                    <LinearGradientBrush>
+                        <GradientStop Color="#3369E8" Offset="0"/>
+                        <GradientStop Color="#fb6161" Offset="0.8"/>
+                    </LinearGradientBrush>
+                </Border.Background>
+
+                <Grid>
+                    <!-- Hàng đầu tiên cố định cho logo và tiêu đề -->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+
+                    <!-- Phần cố định -->
+                    <StackPanel Grid.Row="0">
+                        <!--Logo-->
+                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 30 50 10">
+                            <Grid>
+                                <Border Background="#ffffff" Width="35" Height="35" CornerRadius="50"/>
+                                <Border Width="35" Height="35" BorderBrush="#ffffff" BorderThickness="3" CornerRadius="50" HorizontalAlignment="Right" Margin="0,4,0.2,4.2">
+                                    <Border.Effect>
+                                        <DropShadowEffect BlurRadius="10" Opacity="0.3"/>
+                                    </Border.Effect>
+                                    <Image Width="30" Height="30" Source="/Images/delfi.png"/>
+                                </Border>
+                            </Grid>
+
+                            <!--Title-->
+                            <TextBlock Text="WPF" Foreground="#ffffff" FontSize="30" Margin="10 0 0 3">
+                                <TextBlock.Effect>
+                                    <DropShadowEffect BlurRadius="10" Opacity="0.3"/>
+                                </TextBlock.Effect>
+                            </TextBlock>
+                        </StackPanel>
+                    </StackPanel>
+
+                    <!-- Phần có thể cuộn -->
+                    <ScrollViewer Grid.Row="1" VerticalScrollBarVisibility="Auto">
+                        <StackPanel>
+                            <TextBlock Text="Main" Style="{StaticResource menuTitle}"/>
+                            <Button Style="{StaticResource menuButton2}" Background="#f7f6f4" Foreground="#fb7657" x:Name="btnDashboard" Click="btnDashboard_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Icon:PackIconMaterial Kind="Home" Style="{StaticResource menuButtonIcon2}"/>
+                                    <TextBlock Text="Dashboard" Style="{StaticResource menuButtonText}"/>
+                                </StackPanel>
+                            </Button>
+
+                            <TextBlock Text="FTP" Style="{StaticResource menuTitle}"/>
+
+                            <Button Style="{StaticResource menuButton2}" x:Name="btn_FTPServer" Click="btn_FTPServer_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Icon:PackIconMaterial Kind="Folder" Style="{StaticResource menuButtonIcon2}"/>
+                                    <TextBlock Text="FTP Server" Style="{StaticResource menuButtonText}"/>
+                                </StackPanel>
+                            </Button>
+
+                            <TextBlock Text="Local" Style="{StaticResource menuTitle}"/>
+
+                            <Button Style="{StaticResource menuButton2}" x:Name="btnLocal" Click="btnLocal_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Icon:PackIconMaterial Kind="DesktopClassic" Style="{StaticResource menuButtonIcon2}"/>
+                                    <TextBlock Text="Local" TextWrapping="Wrap"  Style="{StaticResource menuButtonText}"/>
+                                </StackPanel>
+                            </Button>
+
+                            <TextBlock Text="Hệ thống" Style="{StaticResource menuTitle}"/>
+                            <Button Style="{StaticResource menuButton2}" x:Name="btnSettings" Click="btnSettings_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Icon:PackIconMaterial Kind="ApplicationSettings" Style="{StaticResource menuButtonIcon2}"/>
+                                    <TextBlock Text="Settings" Style="{StaticResource menuButtonText}"/>
+                                </StackPanel>
+                            </Button>
+                            <!--<Button Style="{StaticResource menuButton2}" x:Name="btnOpenApp" Click="btnOpenApp_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Icon:PackIconMaterial Kind="Lock" Style="{StaticResource menuButtonIcon2}"/>
+                                    <TextBlock Text="Unlock" Style="{StaticResource menuButtonText}"/>
+                                </StackPanel>
+                            </Button>-->
+                            <Button Style="{StaticResource menuButton2}" x:Name="btnExit" Click="btnExit_Click">
+                                <StackPanel Orientation="Horizontal">
+                                    <Icon:PackIconMaterial Kind="Logout" Style="{StaticResource menuButtonIcon2}"/>
+                                    <TextBlock Text="Thoát" Style="{StaticResource menuButtonText}"/>
+                                </StackPanel>
+                            </Button>
+                        </StackPanel>
+                    </ScrollViewer>
+                </Grid>
+            </Border>
+
+            <Border Grid.Column="2" Grid.Row="1" Grid.ColumnSpan="3">
+                <Frame x:Name="PagesNavigation" NavigationUIVisibility="Hidden" Background="#f7f6f4">
+
+                </Frame>
+            </Border>
+        </Grid>
+    </Border>
+</Window>

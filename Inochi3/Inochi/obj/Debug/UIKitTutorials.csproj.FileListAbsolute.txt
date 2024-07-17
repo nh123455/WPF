@@ -1,0 +1,112 @@
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.exe.config
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.exe
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\bin\Debug\UIKitTutorials.pdb
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csprojAssemblyReference.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\MainWindow.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\App.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials_MarkupCompile.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials_MarkupCompile.lref
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\MainWindow.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.g.resources
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.Properties.Resources.resources
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.exe
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\UIKitTutorials.pdb
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\App.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Assets\Icons\Icons.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Themes\LightTheme.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\HomePage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\HomePage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\NotesPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\PaymentPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\SoundsPage.g.cs
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\NotesPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\PaymentPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Pages\SoundsPage.baml
+C:\Users\JEYDERHT\Desktop\C# - Professional\WPF - YouTube\UIKitTutorials\obj\Debug\Styles\MainStyle.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.AssemblyReference.cache
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\MainWindow.g.cs
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Pages\HomePage.g.cs
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Pages\NotesPage.g.cs
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Pages\PaymentPage.g.cs
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Pages\SoundsPage.g.cs
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\App.g.cs
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\App.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Assets\Icons\Icons.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\MainWindow.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Pages\HomePage.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Pages\NotesPage.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Pages\PaymentPage.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Pages\SoundsPage.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Styles\MainStyle.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Themes\LightTheme.baml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.GenerateResource.cache
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.CoreCompileInputs.cache
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\UIKitTutorials.csproj.CopyComplete
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\EPPlus.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\EPPlus.Interfaces.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\EPPlus.System.Drawing.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Configuration.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Primitives.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Buffers.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.ComponentModel.Annotations.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Memory.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Numerics.Vectors.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Security.Cryptography.Pkcs.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Text.Encoding.CodePages.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Text.Encodings.Web.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Text.Json.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.ValueTuple.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\EPPlus.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Configuration.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.Extensions.Primitives.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Buffers.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Memory.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Numerics.Vectors.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Security.Cryptography.Pkcs.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Text.Encoding.CodePages.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Text.Encodings.Web.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Text.Json.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\System.ValueTuple.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Inochi.exe.config
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Inochi.exe
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\Inochi.pdb
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Inochi_MarkupCompile.cache
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Inochi_MarkupCompile.lref
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Inochi.g.resources
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Inochi.Properties.Resources.resources
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Inochi.exe
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Inochi.pdb
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\ExcelDataReader.DataSet.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\ExcelDataReader.dll
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\ExcelDataReader.pdb
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\ExcelDataReader.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\ExcelDataReader.DataSet.pdb
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\bin\Debug\ExcelDataReader.DataSet.xml
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Loading\LoadingForm.g.cs
+A:\DuAnCaNhan\WPF_Template\UIKitTutorials-main\obj\Debug\Loading\LoadingForm.baml
